@@ -1,0 +1,23 @@
+{
+  "name": "20212_usjt_ads1am_mcb_topicos_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clesio-Nascimento/aula_23_08_21_sis_dis_mob.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clesio-Nascimento/aula_23_08_21_sis_dis_mob/issues"
+  },
+  "homepage": "https://github.com/Clesio-Nascimento/aula_23_08_21_sis_dis_mob#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
